@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://16.170.208.184:8081/repository/boi-fintech-releases/</url>
+	      <url>http://16.16.58.199:8081/repository/devops-assign-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://16.170.208.184:8081/repository/boi-fintech-snapshots/</url>
+	      <url>http://16.16.58.199:8081/repository/devops-assign-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
